@@ -1,0 +1,15 @@
+.slider-h50 {
+  height: 600px;
+}
+.text-white{
+  color: white;
+}
+.text-dark{
+  color: black;
+}
+
+@media screen and (min-width:600px) {
+  .card{
+    flex-direction: column;
+  }
+}
